@@ -2,3 +2,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rezonanzze&repo=Cosette-Discord-Bot)](https://github.com/Rezonanzze/Cosette-Discord-Bot)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezonanzze)](https://github.com/anuraghazra/github-readme-stats)
+
