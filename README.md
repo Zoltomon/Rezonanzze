@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=10000&pause=2000&color=0CF711&width=435&lines=BRAIN+IN+DEVELOPMENT" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&duration=9000&pause=1000&color=D96353&vCenter=true&width=800&height=70&lines=BRAIN+IN+DEVELOPMENT)](https://git.io/typing-svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rezonanzze&repo=Cosette-Discord-Bot)](https://github.com/Rezonanzze/Cosette-Discord-Bot)
 
